@@ -1,2 +1,2 @@
-# project-euler
-A portfolio of my solutions to the problems posed on projecteuler.net
+# Project Euler
+A portfolio of my solutions to the problems on projecteuler.net
